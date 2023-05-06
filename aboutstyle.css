@@ -48,7 +48,7 @@ header{
     top:0;
     left:0;
     width: 100%;
-    padding: 20px 100px;
+    padding: 20px 50px;
     background: transparent;
     display: flex;
     justify-content: space-between;
@@ -71,8 +71,8 @@ header{
     font-size: 1.5vw;
     color:white;
     text-decoration: none;
-    font-weight: 500;
-    margin-left:40px;
+    font-weight: 100;
+    margin-left:10px;
 }
 
 

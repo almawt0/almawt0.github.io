@@ -39,7 +39,7 @@ body{
     color: #e6e6e6;
     text-align: left;
     font-style: italic;
-    
+    font-weight: 400;
 }
 
 
@@ -48,7 +48,7 @@ header{
     top:0;
     left:0;
     width: 100%;
-    padding: 20px 100px;
+    padding: 20px 50px;
     background: transparent;
     display: flex;
     justify-content: space-between;
@@ -74,7 +74,7 @@ header{
     color:white;
     text-decoration: none;
     font-weight: 500;
-    margin-left:40px;
+    margin-left:10px;
 }
 
 .navigation a::after{

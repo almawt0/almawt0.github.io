@@ -24,9 +24,11 @@ body{
     justify-content: center;
 }
 
+
 .main>.title {
+    font-size: 2vw;
     text-align: center;
-    height: 30vw;
+    position: relative;
 }
 .main>.description{
     color: #9b9c9e;
@@ -55,7 +57,7 @@ header{
 } 
 
 .name {
-    font-size: 2em;
+    font-size: 3vw;
     color:white;
     user-select: none;
     background:  linear-gradient(90deg, 
@@ -64,16 +66,15 @@ header{
     -webkit-text-fill-color: transparent;
 }
 
-
-
 .navigation a{
     position:relative;
-    font-size: 1.3em;
+    font-size: 1.5vw;
     color:white;
     text-decoration: none;
     font-weight: 500;
     margin-left:40px;
 }
+
 
 .navigation a::after{
     content: '';
